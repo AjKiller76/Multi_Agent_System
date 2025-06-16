@@ -1,0 +1,4 @@
+git+https://github.com/google-gemini/labs-adk.git
+google-generativeai
+python-dotenv
+requests
